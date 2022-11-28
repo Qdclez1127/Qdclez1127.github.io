@@ -1,3 +1,4 @@
 # Qdclez1127.github.io
- This project intends to maintain the personal safety of the students studying in the school, as well as the school's handling opinions on the 1127 collective food poisoning incident 
+本项目旨在维护在校学生的人身安全，以及学校对 1127集体食物中毒事件的处理意见
+本事若得不到校方合理的解释和处理方式，将不会下线
 >“为众人抱薪者，不可使其冻毙于风雪。”...
